@@ -2,6 +2,7 @@
 Projects for the specialization course Self Driving Cars in Coursera
 
 The SDCs specialization consists of four courses:
+
 Course 1 Introduction to SDCs: introduces the terminology, design specifications, and safety assessment of SDCs.   
 
 Course 2 State Estimation and Localization for SDCs: introduce the state estimation and localization for SDCs using different sensors.
